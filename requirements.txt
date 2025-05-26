@@ -1,0 +1,5 @@
+chainlit
+openai
+python-dotenv
+PyYAML==6.0.1
+-e .
